@@ -3,6 +3,7 @@
 // @include      /https?://www\.empornium\.(me|sx)/torrents\.php.*/
 // @version      1.0
 // @description  Redesign of the floating bar on empornium torrent pages
+// @updateURL    https://github.com/colligere/emp_floating_bar_redesign/raw/master/emp_floating_bar_redesign.user.js
 // @require      http://code.jquery.com/jquery-2.1.1.js
 // @grant        GM_setValue
 // @grant        GM_getValue
